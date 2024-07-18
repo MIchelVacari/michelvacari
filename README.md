@@ -3,7 +3,8 @@
 
 
 - 📘 I'm studying reactjs and typescript
-- 🚀 I'm college systems analysis and development
+- 🚀 I have a degree in Systems Analysis and Development.
+- I work with risk and modeling
 
 <div>
   <a href="https://www.linkedin.com/in/michelvacari/">
