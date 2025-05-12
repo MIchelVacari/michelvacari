@@ -2,9 +2,8 @@
 
 
 
-- 📘 I'm studying reactjs and typescript
-- 🚀 I have a degree in Systems Analysis and Development.
-- I work with risk and modeling
+- 📘 I work with risk and modeling
+- 🚀 I develop models for credit scoring, pricing strategies, and public policy analysis.
 
 <div>
   <a href="https://www.linkedin.com/in/michelvacari/">
@@ -12,8 +11,8 @@
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michelvacari&show_icons=true&theme=tokyonight&in"/>
 </div>
 
-<div align="center">
-  <!-- Linguagens e ferramentas principais -->
+<div>
+
   <img height="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
   <img height="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
   <img height="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
